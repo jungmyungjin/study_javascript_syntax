@@ -1,7 +1,8 @@
 # study_javascript_syntax
 Studying JavaScript syntax
 
-### Reference site
+## 🔗 Reference site 
 https://ko.javascript.info/
 
-https://nomadcoders.co/javascript-for-beginners/lobby
+## 📚 Reference book
+모던 자바스크립트 입문
